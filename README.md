@@ -23,10 +23,15 @@ First, you need to download the pre-trained model for ProtT5 from Hugging Face. 
 
 
 bio_embeddings=0.2.2
+
 pandas=1.2.0
+
 numpy=1.23.1
+
 scikit-learn=1.0.2
+
 pytorch=2.0.0
+
 python=3.8
 
 
