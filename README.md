@@ -1,4 +1,4 @@
-# **TransSolP: A hybrid network model using a pre-trained protein language model for accurate identification of soluble proteins** 
+# **TransSolP: A stack network model using pre-trained protein language models for accurate identification of soluble proteins** 
 
 author: Lingrong Zhanga,  Taigang Liua*
 
